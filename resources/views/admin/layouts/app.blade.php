@@ -27,7 +27,7 @@
 
 
         <div id="page-wrapper">
-            @yield('AdminPageContent')
+            @yield('content')
         </div>
         <!-- /#page-wrapper -->
 

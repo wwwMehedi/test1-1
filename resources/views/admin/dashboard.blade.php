@@ -1,6 +1,6 @@
 @extends('admin.layouts.app')
 
-@section('AdminPageContent')
+@section('content')
 
 	<div class="row">
                 <div class="col-lg-12">
